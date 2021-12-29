@@ -35,7 +35,7 @@
 
 * _HTML_
 * _CSS_
-*_Adobe Photoshop_
+* _Adobe Photoshop_
 
 ## Description
 This project was created to document website creation based on photoshop mock-up template.
