@@ -25,9 +25,8 @@
     </p> 
 </html>
 
-### Changing CSS values: spacing, picture blur property and base color.
+### Web-site build process based on Photoshop template.
 
-\
 ![](./images/psdToHtml.gif)
 
 #### By Roman Kolivashko
