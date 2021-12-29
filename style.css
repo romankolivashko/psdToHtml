@@ -317,6 +317,7 @@ section#points-of-sale ul{
   color: #888;
   font-size: 24px;
   font-weight: normal;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 
@@ -327,4 +328,40 @@ section#points-of-sale ul{
   font-size: 14px;
   color: #888;
   line-height: 1.4em;
+}
+
+#clients {
+  border-top: 1px solid #ccc;
+  padding-top: 30px;
+}
+
+#clients h2{
+  background: rgb(101, 184, 101);
+  color: #fff;
+  padding: 8px;
+  text-align: center;
+  width: 250px;
+  text-transform: uppercase;
+  position: relative;
+  top: -45px;
+  margin: 0 auto;
+  border-left: 16px solid #fff;
+  border-right: 16px solid #fff;
+}
+
+#clients img{
+  float: left;
+  width: 25%;
+}
+
+#clients blockquote{
+  float: right;
+  width: 66%;
+  margin-top: 20px;
+  text-align: center;
+  font-style: italic;
+  line-height: 1.6em;
+  color: #888;
+  padding-top: 50px;
+  background: url(./images/quotes.png) no-repeat;
 }
