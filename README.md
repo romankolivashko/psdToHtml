@@ -47,7 +47,7 @@ This project was created to document website creation based on photoshop mock-up
 3. Navigate to the psdToHtml/ directory on your computer
 4. Launch index.html in any browser 
 
-## How to access the app from the web and hear the sound of a drum
+## How to access the site from the web
 * Follow the link [here](https://stoic-gates-2c71b0.netlify.app/)
 ## Known Bugs
 
